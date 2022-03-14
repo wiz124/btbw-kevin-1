@@ -4,8 +4,21 @@
 > Tech Talk notes all in one place.
 
 ## Table of Contents
-| [TT0](#tt0) | [TT1](#tt1) | [TT2](#tt2) | [TT3](#tt3) | [TT4](#tt4) | [TT5](#tt5) | [TT6](#tt6) | [TT7](#tt7) | [TT8](#tt8) | [TT9](#tt9) | [TT10](#tt10) |
-|---|---|---|---|---|---|---|---|---|---|---|
+<table>
+    <tr>
+        <td><a herf="#tt0">TT0</a></td>
+        <td><a herf="#tt1">TT1</a></td>
+        <td><a herf="#tt2">TT2</a></td>
+        <td><a herf="#tt3">TT3</a></td>
+        <td><a herf="#tt4">TT4</a></td>
+        <td><a herf="#tt5">TT5</a></td>
+        <td><a herf="#tt6">TT6</a></td>
+        <td><a herf="#tt7">TT7</a></td>
+        <td><a herf="#tt8">TT8</a></td>
+        <td><a herf="#tt9">TT9</a></td>
+        <td><a herf="#tt10">TT10</a></td>
+    </tr>
+</table>
 
 ## TT0
 
