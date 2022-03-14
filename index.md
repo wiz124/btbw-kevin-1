@@ -1,3 +1,3 @@
 {% include navigation.html %}
 
-Hello
+Hello! This is the home page.
