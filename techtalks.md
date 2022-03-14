@@ -4,8 +4,8 @@
 > Tech Talk notes all in one place.
 
 ## Table of Contents
-[TT0](#tt0)
-
+| [TT0](#tt0) | [TT1](#tt1) | [TT2](#tt2) | [TT3](#tt3) | [TT4](#tt4) | [TT5](#tt5) | [TT6](#tt6) | [TT7](#tt7) | [TT8](#tt8) | [TT9](#tt9) | [TT10](#tt10) |
+|---|---|---|---|---|---|---|---|---|---|---|
 
 ## TT0
 
@@ -39,3 +39,23 @@ private final Map<String, Integer> OPERATORS = new HashMap<>();
         OPERATORS.put("-", 4);
     }
 ```
+
+## TT1
+
+## TT2
+
+## TT3
+
+## TT4
+
+## TT5
+
+## TT6
+
+## TT7
+
+## TT8
+
+## TT9
+
+## TT10
